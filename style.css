@@ -51,8 +51,8 @@ text-align: center;
     letter-spacing: 1px;
 }
 .container2 {
-    display: none;
-    border: 5px solid aliceblue;
+   
+    max-height: 50px;
     background-color: rgba(80, 80, 120, 0.808);
     margin: 60px auto;
     max-width: 70%;
